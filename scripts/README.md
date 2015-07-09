@@ -11,8 +11,10 @@ This allows `rviz` to publish goals to the scarabs by using the
 "Publish Point" feature in `riz`.
 
 Install:
+
     sudo pip install pyaml sh
 
 Use:
+
     rostopic echo /clicked_point | python click_to_scarab.py
 
