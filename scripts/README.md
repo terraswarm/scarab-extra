@@ -8,7 +8,7 @@ click_to_scarab.py
 ---------------
 
 This allows `rviz` to publish goals to the scarabs by using the
-"Publish Point" feature in `riz`.
+"Publish Point" feature in `rviz`.
 
 Install:
 
